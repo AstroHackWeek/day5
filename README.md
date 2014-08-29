@@ -39,7 +39,7 @@ Lecture 2: Density Estimation and Dimensionality Reduction
 
     - dimensionality reduction: PCA, NMF, ICA, LLE
 
-    - (spare material) regression: errors in both variables, non-Gaussian errors, learning curves 
+    - (regression): errors in both variables, non-Gaussian errors, learning curves 
 
 
 For more details about lecture content, see further below. Draft lectures are available as
