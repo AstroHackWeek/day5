@@ -3,6 +3,16 @@ day5
 
 Day 5 material for the AstroData Hack Week
 
+***************************************************
+*** Please install astroML before the Hack Week *** 
+
+   astroML is available from
+   http://astroml.github.com
+
+For more details and todo-s, see below! 
+***************************************************
+
+
 Lectures by Zeljko Ivezic: 
 
 Lecture 1: Introduction and warm-up with astroML
@@ -21,7 +31,7 @@ Lecture 2: Density Estimation and Dimensionality Reduction
     - (spare material) regression: errors in both variables, non-Gaussian errors, learning curves 
 
 
-For more details, see further below. Draft lectures are available as
+For more details about lecture content, see further below. Draft lectures are available as
 http://www.astro.washington.edu/users/ivezic/astroML/AstroHackWeek2014/Lectures/Lecture1.pdf
 http://www.astro.washington.edu/users/ivezic/astroML/AstroHackWeek2014/Lectures/Lecture2.pdf
 
@@ -39,11 +49,14 @@ are ordered by importance (in my humble opinion), so the main goal of introducin
 most useful tools will be accomplished even if we don't finish them all (but you will have the 
 list for later perusal).
 
-Python exercises will make use of public python code (written to support the book "Statistics, 
-Data Mining and Machine Learning in Astronomy", which is available at 
+Python exercises will make use of public python code astroML (written to support the book 
+"Statistics, Data Mining and Machine Learning in Astronomy"), which is available from
 http://astroml.github.com/
 
-Please run this code before the school, or at least, before Friday (see the header): 
+  *** Please install astroML *** 
+
+After astroML is installed, please run this code before the school, or at least, before 
+Friday (see the header): 
 http://www.astro.washington.edu/users/ivezic/astroML/AstroHackWeek2014/fetchAllData.py
 
 It will download all the data we will need to your machine, and avoid the risk of 
@@ -52,8 +65,8 @@ It will download all the data we will need to your machine, and avoid the risk o
 In case of installation problems, please send e-mail to ivezic@astro.washington.edu
 
 
-Below I only list topics titles and links to relevant astroML examples. Theoretical background 
-for each topic will be delivered via lectures.
+Below I only list topics titles and links to relevant astroML examples. Theoretical 
+background for each topic will be delivered via lectures. 
 
 
 
