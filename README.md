@@ -159,10 +159,11 @@ http://www.astroml.org/book_figures/chapter8/fig_cross_val_D.html
 Potential additions in unlikely case we will have time left:
 
 fast positional matching with kd trees, see
+
 http://www.astroml.org/examples/algorithms/index.html
 
-another regression example
-See http://www.astroml.org/book_figures/chapter8/fig_regression_mu_z.html
+another regression example, see
+http://www.astroml.org/book_figures/chapter8/fig_regression_mu_z.html
 
 
 Want more? Here is a couple of more advanced exercises (a.k.a. HOME-work!):
