@@ -16,18 +16,29 @@ For more details and todo-s, see below!
 Lectures by Zeljko Ivezic: 
 
 Lecture 1: Introduction and warm-up with astroML
+
     - introduction and warm-up with astroML
+
     - 3D and 4D color-coding
+
     - robust 2D gaussian parameters 
+
     - Bayesian parameter estimation for uniform distr.
+
     - Cminus method
+
     - matched filter signal extraction
+
     - (spare material): an example of wavelet analysis
 
 Lecture 2: Density Estimation and Dimensionality Reduction 
+
     - introduction, 1D "histograms": Knuth, BayesBlock, GMM, KDE, the Wiener filter 
+
     - high-D density estimation: KDE, Bayesian NN, Extreme deconvolution in high D 
+
     - dimensionality reduction: PCA, NMF, ICA, LLE
+
     - (spare material) regression: errors in both variables, non-Gaussian errors, learning curves 
 
 
@@ -44,6 +55,7 @@ While these two 1.5 hour long lectures described above may seem too packed, they
 existing code in astroML. After brief theoretical introduction to each case, we will copy and 
 paste the relevant code - or download it as (in any directory) 
 http://www.astro.washington.edu/users/ivezic/astroML/AstroHackWeek2014/pythonAll.tar.gz 
+
 and run it several times, with some modifications. The topics are intentionally overloaded and 
 are ordered by importance (in my humble opinion), so the main goal of introducing students to 
 most useful tools will be accomplished even if we don't finish them all (but you will have the 
@@ -57,6 +69,7 @@ http://astroml.github.com/
 
 After astroML is installed, please run this code before the school, or at least, before 
 Friday (see the header): 
+
 http://www.astro.washington.edu/users/ivezic/astroML/AstroHackWeek2014/fetchAllData.py
 
 It will download all the data we will need to your machine, and avoid the risk of 
@@ -159,4 +172,5 @@ power spectrum and Aitoff projection (as for WMAP data)
 
 combine standard star catalog plotting and 
 http://www.astroml.org/examples/datasets/plot_dr7_quasar.html 
+
 to plot both stars and quasars on the same diagram, and then classify them.
